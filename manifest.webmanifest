@@ -1,0 +1,19 @@
+{
+  "name": "מדריד, ספרד – מידע למטייל",
+  "short_name": "מדריד – מטייל",
+  "description": "מדריך מטייל למדריד: מפות, אתרים, מלונות, מטרו, מסעדות, מסלולים ועוד. יוצר: יעקב זוהר",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff3dc",
+  "theme_color": "#9b0d1f",
+  "launch_handler": { "client_mode": ["focus-existing", "auto"] },
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
